@@ -1,0 +1,8 @@
+# Socialflow.site
+
+## Quickstart
+
+```bash
+npx create-next-app@latest socialflow
+cd socialflow
+npm install @supabase/supabase-js react-toastify
